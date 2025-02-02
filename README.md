@@ -3,7 +3,7 @@
 
 ## Overview
 NYTimesApp application is two screens iOS application, Articles Listing and Article Details screen.
-Developem in MVVM with repository pattern.
+Developed in MVVM with repository pattern.
 
 ## How To Run the app
 Just run the project don't have any third party dependency 
